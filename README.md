@@ -9,8 +9,8 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-elsayed23/)
 [![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazelsayed12@gmail.com)
 
-- :office: &nbsp;I'm currently looking for a new role
-- :seedling: &nbsp;I’m currently learning React and Node.js.
+- :office: &nbsp;I'm currently frontend intern at <a href="https://robustagroup.com/studio/">@robusta studio</a>
+- :seedling: &nbsp;I’m currently learning Nextjs .
 - :speech_balloon: &nbsp;I like to talk about **Anime** and **Video Games**
 - :mailbox: &nbsp;Ask me anything, I'm happy to help :)
 
@@ -18,5 +18,5 @@
   Languages and Tools
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,redux,nodejs,jest,postgres,git,aws&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,ts,react,redux,nodejs,mysql,postgres,git,next,gitlab,aws&perline=8" />
 </p>
