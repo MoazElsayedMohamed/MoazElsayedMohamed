@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-elsayed23/)
 [![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazelsayed12@gmail.com)
 
-- :office: &nbsp;I'm currently junior software engineer at <a href="https://robustagroup.com/studio/">@robusta studio</a>
+- :office: &nbsp;I'm currently software engineer at <a href="https://robustagroup.com/studio/">@robusta studio</a>
 - :seedling: &nbsp;I’m currently learning Nextjs and ReactJs.
 - :speech_balloon: &nbsp;I like to talk about **Anime** and **Video Games**
 - :mailbox: &nbsp;Ask me anything, I'm happy to help :)
